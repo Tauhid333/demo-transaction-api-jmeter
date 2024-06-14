@@ -13,7 +13,7 @@ Based on following scenario, create a JMX file. No need to create negative testi
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [API Endpoints](#overview)
 - [Tasks Performed](#tasks_Performed)
 - [Results](#results)
   - [Screenshots](#screenshots)
