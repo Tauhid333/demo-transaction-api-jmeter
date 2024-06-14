@@ -13,13 +13,13 @@ Based on following scenario, create a JMX file. No need to create negative testi
 
 ## Table of Contents
 
-- [API Endpoints](#overview)
+- [API Endpoints](#api_endpoints)
 - [Tasks Performed](#tasks_Performed)
 - [Results](#results)
   - [Screenshots](#screenshots)
   
 
-## Overview
+## API Endpoints
 - User documentation:
 You will get the user API URL, endpoint, header info and demo data from here:
 [https://documenter.getpostman.com/view/1844288/2s9YeABaGo](https://documenter.getpostman.com/view/1844288/2s9YeABaGo)
