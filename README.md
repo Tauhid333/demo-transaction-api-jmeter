@@ -14,7 +14,7 @@ Based on following scenario, create a JMX file. No need to create negative testi
 ## Table of Contents
 
 - [Overview](#overview)
-- [Tasks Performed](#task_Performed)
+- [Tasks Performed](#tasks_Performed)
 - [Results](#results)
   - [Screenshots](#screenshots)
   
@@ -41,6 +41,7 @@ You will get the transaction API URL, endpoint, header info and demo data from h
 
 
 ### Screenshots
+## Jmeter HTML Report
 ![Screenshot (478)](https://github.com/Tauhid333/demo-transaction-api-jmeter/assets/62515281/92a9402b-ab97-4528-8547-9da27f5f557c)
 ![Screenshot (479)](https://github.com/Tauhid333/demo-transaction-api-jmeter/assets/62515281/7ce54cfd-0168-463a-b70f-6525ef758756)
 
