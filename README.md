@@ -1,8 +1,7 @@
 # Dmoney API Demo Transaction Using Jmeter
 
-## Problem Statement
+## Requirements
 
-Based on following scenario, create a JMX file. No need to create negative testing. Just create the positive test case based on this flow.
 - Admin creates an agent and a customer
 - Deposit 2000 tk to agent from system account (fromAc: SYSTEM)
 - Deposit 1000 tk to customer from agent account
